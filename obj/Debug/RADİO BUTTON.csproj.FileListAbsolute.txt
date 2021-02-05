@@ -1,0 +1,10 @@
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\bin\Debug\RADİO BUTTON.exe.config
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\bin\Debug\RADİO BUTTON.exe
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\bin\Debug\RADİO BUTTON.pdb
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO BUTTON.csprojAssemblyReference.cache
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO_BUTTON.Form1.resources
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO_BUTTON.Properties.Resources.resources
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO BUTTON.csproj.GenerateResource.cache
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO BUTTON.csproj.CoreCompileInputs.cache
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO BUTTON.exe
+C:\Users\bekil\OneDrive\Desktop\PROJELER\RADİO BUTTON\RADİO BUTTON\obj\Debug\RADİO BUTTON.pdb
